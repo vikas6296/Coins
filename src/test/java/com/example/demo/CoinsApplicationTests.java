@@ -36,6 +36,13 @@ public void getUserBalanceTest() throws Exception
 	 users=new ArrayList<UserBalance>();
 	users.add(new UserBalance(1,2000,"vikas"));
 	users.add(new UserBalance(2,2000,"divsyy"));
+	users.add(new UserBalance(2,2000,"divsyy"));
+    
+	
+	users.add(new UserBalance(1,2000,"vikas"));
+	users.add(new UserBalance(2,2000,"divsyy"));
+	users.add(new UserBalance(2,2000,"divsyy"));
+    
 	
 	
 	
